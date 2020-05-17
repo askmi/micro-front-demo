@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "strictNullChecks": true,
+      "module": "commonjs",
+      "target": "esnext",
+      "jsx": "react",
+      "allowJs": true,
+      "noImplicitAny": false,
+      "allowSyntheticDefaultImports": true
+    },
+    "exclude": ["./dist", "./forks", "./libs"]
+}
